@@ -31,4 +31,5 @@ public class DynamicJson {
 	}
 System.out.println("Git Trial");
 System.out.println("Testing Git integration between two projects");
+System.out.println("Testing GitDemo2");
 }
