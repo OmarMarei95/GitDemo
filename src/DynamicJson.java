@@ -29,5 +29,8 @@ public class DynamicJson {
 	public Object[][] getData(){
 		return new Object[][] {{"qwe","123"},{"asd","456"},{"zxc","789"}};
 	}
-	System.out.println("Neeew");
+System.out.println("Git Trial");
+System.out.println("Testing Git integration between two projects");
+System.out.println("Testing GitDemo2");
+System.out.println("wa7eeed taamaaaaaam??");
 }
